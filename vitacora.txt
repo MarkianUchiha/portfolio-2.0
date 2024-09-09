@@ -1,0 +1,16 @@
+Hola en este es mi portfolio y lo desarrolle en React Js y Tailwind
+en este proyecto pretendo empezar a actualizar poco a poco mis habilidades y probar mi
+capacidad de actualización y mantenimiento de mi portfolio.
+
+El repositorio busca ser el primer paso en mi carrera como desarrollador independiente o freelancer.
+
+Asi que este Readme se convertira en una bitacora con las actualizaciones que se iran desarrollando
+con justificaciones y una breve narrativa del proceso mas largas y humanizadas que un commit.
+
+08-10-24
+Estoy desarrollando este portfolio con la intención de alejarme de las empresas y empezar a trabajar 
+como web developer independiente.
+
+Espero que tanto el portfolio como su contenido sean suficiente evidencia para poder acceder a la
+oportunidad de entrevistas, hoy inicio el repositorio y aunque necesita actualizaciones de datos como
+los de los proyectos y testimoniales, es una buena muestra de mis habilidades como developer.
