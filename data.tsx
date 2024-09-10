@@ -4,17 +4,17 @@ export const socialNetworks = [
     {
         id: 1,
         logo: <Youtube size={30} strokeWidth={1} />,
-        src: "#!",
+        src: "https://www.youtube.com/@MarkianDev",
     },
     {
         id: 2,
         logo: <Linkedin size={30} strokeWidth={1} />,
-        src: "#!",
+        src: "https://www.linkedin.com/in/markiandev/",
     },
     {
         id: 3,
         logo: <Twitter size={30} strokeWidth={1} />,
-        src: "#!",
+        src: "https://x.com/LaNetflix",
     },
     {
         id: 4,
@@ -24,7 +24,7 @@ export const socialNetworks = [
     {
         id: 5,
         logo: <Twitch size={30} strokeWidth={1} />,
-        src: "#!",
+        src: "https://www.twitch.tv/markiandev",
     },
 ];
 
@@ -72,52 +72,52 @@ export const dataAboutPage = [
     },
     {
         id: 2,
-        title: "Creador de Experiencias Digitales",
-        subtitle: "PixelCrafters",
-        description: "Trabaja en proyectos emocionantes que desafían los límites de la creatividad y la tecnología. Únete a nosotros mientras creamos experiencias digitales cautivadoras que inspiran y cautivan a nuestros usuarios.",
+        title: "Desarrollador FullStack",
+        subtitle: "FM Central",
+        description: "Parte del equipo responsable del desarrollo de la plataforma web, CRM y metodo de compra, pedidos y gestión de clientes, empleados, proveedores y cotizaciones.",
         date: "May 2021",
     },
     {
         id: 3,
-        title: "Especialista en Desarrollo Frontend",
-        subtitle: "CodeForge Solutions",
-        description: "Como desarrollador frontend, tendrás la oportunidad de colaborar en proyectos diversos y desafiantes que te permitirán expandir tus habilidades y dejar tu huella en el mundo digital.",
+        title: "Desarrollador Frontend",
+        subtitle: "FigMet",
+        description: "Encargado de crear, alimentar y mantener el sitio web de venta de bienes raices, en el cual usuarios y vendedores podian crear productos con imagenes, descripciones, precios y otras cosas que se revisaban por tickets para su aprobación y subir a la plataforma.",
         date: "Ago 2019",
     },
     {
         id: 4,
         title: "Prácticas Grado",
-        subtitle: "WebWizards Inc.",
-        description: "Únete a nosotros mientras creamos sitios web y aplicaciones interactivas que sorprenden y deleitan a nuestros clientes. Si tienes pasión por el diseño y la programación, y disfrutas colaborar en un entorno creativo, ¡queremos conocerte!        ",
-        date: "Mar 2018",
+        subtitle: "INA Mex",
+        description: "Practique en el area de sistemas, desarrollando sistemas web simples para el control de ingresos, egresos y traslado de pacientes.",
+        date: "Mar 2015",
     },
 ]
 
 export const dataCounter = [
     {
         id: 0,
-        endCounter: 10,
+        endCounter: 12,
         text: "Años de experiencia",
         lineRight: true,
         lineRightMobile: true,
     },
     {
         id: 1,
-        endCounter: 80,
+        endCounter: 60,
         text: "Clientes satisfechos",
         lineRight: true,
         lineRightMobile: false,
     },
     {
         id: 2,
-        endCounter: 220,
+        endCounter: 154,
         text: "Proyectos finalizados",
         lineRight: true,
         lineRightMobile: true,
     },
     {
         id: 3,
-        endCounter: 30,
+        endCounter: 10,
         text: "Certificaciones Logradas",
         lineRight: false,
         lineRightMobile: false,

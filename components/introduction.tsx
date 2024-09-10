@@ -9,7 +9,7 @@ const Introduction = () => {
     return ( 
         <div className="z-20 w-full bg-darkBg/60">
             <div className="z-20 grid items-center h-full p-6 py-20 md:py-0 md:grid-cols-2">
-                <Image src= "/markidev_perfil_developer.png" priority width="300" height="300" alt="Profile pic" />
+                <Image src= "/markidev_en_pc.png" priority width="300" height="300" alt="Profile pic" />
                 <div className="flex flex-col justify-center max-w-md">
                     <h1 className="mb-5 text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-10">
                         Si puedes Imaginarlo,
@@ -32,13 +32,13 @@ const Introduction = () => {
                     </h1>
 
                     <p className="mx-auto mb-2 text-base md:mx-0 md:mb-8">
-                        Como Desarrollador Web, me dedico a crear experiencias 
-                        digitales impactantes y faciles de usar, para que sean tu mejor 
-                        aliado en tu empresa.
+                    Soy un desarrollador web con experiencia en la creación de productos digitales 
+                    para startups y pequeñas empresas. Me apasiona trabajar en proyectos innovadores 
+                    y ayudar a los emprendedores a alcanzar sus objetivos.
                     </p>
                     
                     <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">
-                        <Link href="/projects" className="px-3 py-2 transition-all border-2 cursor-pointer text-md w-fit 
+                        <Link href="/portfolio" className="px-3 py-2 transition-all border-2 cursor-pointer text-md w-fit 
                         rounded-xl hover:shadow-xl hover:shadow-white/50">
                             Ver Proyectos
                         </Link>

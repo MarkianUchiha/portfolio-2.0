@@ -14,3 +14,10 @@ como web developer independiente.
 Espero que tanto el portfolio como su contenido sean suficiente evidencia para poder acceder a la
 oportunidad de entrevistas, hoy inicio el repositorio y aunque necesita actualizaciones de datos como
 los de los proyectos y testimoniales, es una buena muestra de mis habilidades como developer.
+
+09-10-24
+Hoy actualizamos los enlaces y algunos textos, corregimos errores de algunas imagenes y eliminamos otras
+para buscar una mejores que nos permitan proyectar la imagen profesional pero desenfada que buscamos.
+Estoy pensando en talvez no usar avatars y mejor utilizar algun personaje o imagenes decorativas.
+
+Actualizamos parte del time line de experiencia y corregimos errores en los botones.
